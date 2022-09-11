@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
-*main - entry point, prints astringe to stderr
-*Return: 1 if success
+* main - entry point, prints astringe to stderr
+* Return: 1 if success
 */
 int main(void)
 {
