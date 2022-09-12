@@ -17,7 +17,7 @@ int main(void)
 
 {
 
-	char c;
+	putchar c;
 
 	for (c = '0'; c <= '9'; c++)
 
