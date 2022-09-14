@@ -1,5 +1,5 @@
 /**
- * slower - checks whether a char is lowercase or not
+ *_islower - checks whether a char is lowercase or not
  * @c: the char to be checked
  * Return: 1 if c is lower case
  * 0 otherwise
@@ -12,6 +12,6 @@ return (1);
 }
 else
 {
-return (0);									
+return (0);
 }
 }
