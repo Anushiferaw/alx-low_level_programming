@@ -31,7 +31,7 @@ else if (y != 0)
 _putchar(' ');
 _putchar(' ');
 _putchar(z + '0');
-{
+}
 else
 _putchar(z + '0');
 if (y != n)
@@ -41,6 +41,6 @@ _putchar(' ');
 }
 }
 _putchar('\n');
-x++);
+x++;
 }
 }
