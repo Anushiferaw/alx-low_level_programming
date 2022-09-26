@@ -1,0 +1,1 @@
+this is the seventh file of C project in my alx program
